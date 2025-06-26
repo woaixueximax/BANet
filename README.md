@@ -1,5 +1,7 @@
 # Code
 Code for "BANet: A Network Based on Bridge Structures and Attention Mechanisms for EEG Decoding"
+
+**The specific parameter details and training details will be further updated after the publication of the paper**
 # Abstract
 ![1](https://github.com/user-attachments/assets/8fecf47f-2d30-49a4-8b83-559947b94081)
 # Requirements
