@@ -151,7 +151,7 @@ def Bridge(n_classes, in_chans=22, in_samples=1125, n_windows=2, attention='mha'
            eegn_F1=16, eegn_D=2, eegn_kernelSize=64, eegn_poolSize=7, eegn_dropout=0.3,
            tcn_depth=2, tcn_kernelSize=4, tcn_filters=32, tcn_dropout=0.3,
            tcn_activation='elu', fuse='average',encoder = 'None',decoder ='LSTM',Bridge_number = 2):
-    input_1 = Input(shape=(1, in_chans, in_samples))  # TensorShape([None, 1, 22, 1125])
+    input_1 = Input(shape=(1, in_chans, in_samples))  
     input_2 = Permute((3, 2, 1))(input_1)
     dense_weightDecay = 0.5
     conv_weightDecay = 0.009
