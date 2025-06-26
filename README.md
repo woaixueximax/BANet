@@ -11,5 +11,9 @@ TensorFlow 2.7
 
 [BCI 2b](https://www.bbci.de/competition/iv/) : 90.72%
 
+# Use
+
+model = Bridge(number)  #number is types of classification 
+
 # Contact
 If you have any questions, please contact Xuejian Wu at [wuxuejian@sia.cn](wuxuejian@sia.cn)
