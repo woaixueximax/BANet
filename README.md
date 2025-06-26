@@ -10,3 +10,6 @@ TensorFlow 2.7
 [BCI 2a](https://www.bbci.de/competition/iv/) : 84.11%
 
 [BCI 2b](https://www.bbci.de/competition/iv/) : 90.72%
+
+# Contact
+If you have any questions, please contact Xuejian Wu at [wuxuejian@sia.cn](wuxuejian@sia.cn)
